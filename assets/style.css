@@ -65,6 +65,7 @@ h2, #contact {
     border-radius: 10px;
 }
 
+/* hover class for the button */
 #contact:hover {
     background-color: rgb(41, 41, 41);
 }
