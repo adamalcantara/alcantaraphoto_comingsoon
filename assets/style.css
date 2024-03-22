@@ -1,3 +1,4 @@
+/* Font styling */
 .roboto-flex-font {
     font-family: "Roboto Flex", sans-serif;
     font-optical-sizing: auto;
@@ -26,6 +27,7 @@ h2, #contact {
     font-weight: 400 !important;
 }
 
+/* Styling the content box */
 #content {
     display: flex;
     width: 100%;
@@ -38,10 +40,12 @@ h2, #contact {
     background-position: center;
 }
 
+/* Text box */
 #items {
     text-align: center;
 }
 
+/* Styling the text */
 #title {
     font-size: 100px;
 }
